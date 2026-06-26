@@ -6,3 +6,5 @@
 **Topic:** Vue.js HR Web Application (Proof of Concept) 
 
 This repository contains my proof-of-concept HR web application for MordenTech Solutions, built as part of the Life Choices Academy frontend development curriculum.
+
+
