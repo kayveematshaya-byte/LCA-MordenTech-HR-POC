@@ -7,4 +7,8 @@
 
 This repository contains my proof-of-concept HR web application for MordenTech Solutions, built as part of the Life Choices Academy frontend development curriculum.
 
+| Branch | Topic |
+|---|---|
+| week9-MordenTech-HR-POC-ex-01 | HR Web Application |
+
 
